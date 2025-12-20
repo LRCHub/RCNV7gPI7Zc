@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "We don't talk together",
+  "base_artist": "Heize",
+  "createdAt": "2025-12-20T08:58:03.415557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We don't talk together",
+      "artist": "Heize",
+      "has_synced": true,
+      "path": "select/01_We_don't_talk_together_Heize.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We don’t talk together",
+      "artist": "HEIZE/GIRIBOY",
+      "has_synced": true,
+      "path": "select/02_We_don’t_talk_together_HEIZE_GIRIBOY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We don't talk together (feat. GIRIBOY)",
+      "artist": "Heize",
+      "has_synced": true,
+      "path": "select/03_We_don't_talk_together_(feat._GIRIBOY)_Heize.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We don't talk together",
+      "artist": "Heize feat. Giriboy",
+      "has_synced": true,
+      "path": "select/04_We_don't_talk_together_Heize_feat._Giriboy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We don't talk together (Prod. by SUGA)",
+      "artist": "HEIZE",
+      "has_synced": true,
+      "path": "select/05_We_don't_talk_together_(Prod._by_SUGA)_HEIZE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We don't talk together [Prod. SUGA]",
+      "artist": "Heize",
+      "has_synced": true,
+      "path": "select/06_We_don't_talk_together_[Prod._SUGA]_Heize.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We don't talk together (feat. GIRIBOY)",
+      "artist": "Heize",
+      "has_synced": true,
+      "path": "select/07_We_don't_talk_together_(feat._GIRIBOY)_Heize.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We don't talk together (Feat. 기리보이) (Prod. SUGA)",
+      "artist": "헤이즈",
+      "has_synced": true,
+      "path": "select/08_We_don't_talk_together_(Feat._기리보이)_(Prod._SUGA)_헤이즈.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We don't talk together (Prod. by SUGA)",
+      "artist": "HEIZE feat. GIRIBOY",
+      "has_synced": true,
+      "path": "select/09_We_don't_talk_together_(Prod._by_SUGA)_HEIZE_feat._GIRIBOY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We don’t talk together",
+      "artist": "Heize",
+      "has_synced": true,
+      "path": "select/10_We_don’t_talk_together_Heize.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We don't talk together (Prod. SUGA) [feat. GIRIBOY]",
+      "artist": "HEIZE",
+      "has_synced": true,
+      "path": "select/11_We_don't_talk_together_(Prod._SUGA)_[feat._GIRIBOY]_HEIZE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We don't talk together (Feat. 기리보이) (Prod. SUGA)",
+      "artist": "헤이즈 (Heize)",
+      "has_synced": true,
+      "path": "select/12_We_don't_talk_together_(Feat._기리보이)_(Prod._SUGA)_헤이즈_(Heize).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We don't talk together",
+      "artist": "HEIZE, Giriboy",
+      "has_synced": false,
+      "path": "select/pl_01_We_don't_talk_together_HEIZE,_Giriboy.txt"
+    }
+  ]
+}
